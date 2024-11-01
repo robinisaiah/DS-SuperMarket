@@ -1,7 +1,7 @@
-git clone https://github.com/username/repository-name.git
-cd repository-name
-pip install -r requirements.txt
-jupyter notebook
+git clone https://github.com/robinisaiah/DS-SuperMarket.git
+- cd repository-name
+- pip install -r requirements.txt
+- jupyter notebook
 
 # DS-SuperMarket
   - Identified top-performing product lines and high-revenue cities. 
